@@ -1,9 +1,9 @@
-*Wordpress Starter Theme
+#Wordpress Starter Theme
 ===
 
 This is a starter theme based on underscores.  Follow the steps in the "Gettign Started" section below to get up and running.
 
-**Information about Underscores:
+##Information about Underscores:
 ===
 
 Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
@@ -20,7 +20,7 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 * Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
-**Getting Started
+##Getting Started
 ---------------
 
 If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
