@@ -23,9 +23,7 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 ##Getting Started
 ---------------
 
-If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
-
-If you want to set things up manually, The first thing you want to do is rename the main directory, changing the name to something else (like, say, `awesomeWebsite`), and then you'll need to do a find and replace on the following items.
+The first thing you want to do is rename the main directory, changing the name to something else (like, say, `awesomeWebsite`), and then you'll need to do a find and replace on the following items.
 
 1. Search all files for `PACKAGENAME` and replace with `awesomeWebsite`.  Make sure the search is case sensitive.
 2. Search all files for `TEXTDOMAIN` and replace with `awesomeWebsite`.  Make sure the search is case sensitive.
